@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Physics\Projectile\bin\Debug\Projectile.exe.config
+C:\Users\Daniel\source\repos\Physics\Projectile\bin\Debug\Projectile.exe
+C:\Users\Daniel\source\repos\Physics\Projectile\bin\Debug\Projectile.pdb
+C:\Users\Daniel\source\repos\Physics\Projectile\obj\Debug\Projectile.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Physics\Projectile\obj\Debug\Projectile.exe
+C:\Users\Daniel\source\repos\Physics\Projectile\obj\Debug\Projectile.pdb
